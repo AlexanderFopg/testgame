@@ -42,6 +42,7 @@ function gameLoop() {
 }
 
 function update() {
+	print(player.x);
     // Обновление позиции игрока
     player.velocityX = 0;
 
