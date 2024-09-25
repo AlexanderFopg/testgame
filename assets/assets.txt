@@ -1,12 +1,8 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-32f8d598ced91dec97888f5f5a6ea49e.txt:75:text/plain:1
-i:dirt.png:dirt-709b71ef5f0b0ff7d905aa6daca9d677.png:3592:image/png:1
-i:grass.png:grass-30d970d6e49782405ea0dd3544da1fc6.png:4921:image/png:1
-i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
-t:lights.atlas:lights-1ee6b59e6731959330b8aee9b221efc9.atlas:257:application/unknown:1
-i:lights.png:lights-7bbbf49dfef0948b76f292e03e4f4abb.png:94548:image/png:1
-i:player.png:player-e77a7ae37cd34940a8de40abbf3abd03.png:3548:image/png:1
-i:stone.png:stone-5679ab194a90896822766860bbf73c06.png:3809:image/png:1
+t:aizergame.atlas:aizergame-7d550ceca0f95b5c5e31136849dbba6d.atlas:250:application/unknown:1
+i:aizergame.png:aizergame-3f28123f2556157d6a85e9bd022865bc.png:134049:image/png:1
+t:assets.txt:assets-3d21667cd6561620326e14aacb56bf9a.txt:39:text/plain:1
+i:boss.png:boss-96cd22bd96708882e378e5faed0adc55.png:405167:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
