@@ -1,7 +1,0 @@
-dirt.png
-grass.png
-libgdx.png
-lights.atlas
-lights.png
-player.png
-stone.png

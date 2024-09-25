@@ -1,3 +1,0 @@
-libgdx.png
-lights.atlas
-lights.png
