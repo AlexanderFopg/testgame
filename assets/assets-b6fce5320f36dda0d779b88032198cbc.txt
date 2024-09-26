@@ -1,0 +1,4 @@
+aizergame.atlas
+aizergame.png
+boss.png
+player.png
