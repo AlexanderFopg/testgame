@@ -1,6 +1,6 @@
 d:assets:assets:0:application/unknown:1
-t:aizergame.atlas:aizergame-19643f42dbb60b0f9c623332161d44b5.atlas:763:application/unknown:1
-i:aizergame.png:aizergame-81f3a596c3c21e5e6e85d4a7db3cc6eb.png:135916:image/png:1
+t:aizergame.atlas:aizergame-3897f4eba4452043ac8268d8f44bf66a.atlas:791:application/unknown:1
+i:aizergame.png:aizergame-8aab62191da3d6cae13d640b4a911013.png:150540:image/png:1
 t:assets.txt:assets-2ca8639d393193f5ce5ffa2156b4aabb.txt:206:text/plain:1
 i:boss.png:boss-96cd22bd96708882e378e5faed0adc55.png:405167:image/png:1
 t:cargameskin.json:cargameskin-615add96d777c3dd946060471a438051.json:655:application/unknown:1
