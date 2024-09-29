@@ -1,0 +1,15 @@
+aizergame.atlas
+aizergame.png
+boss.png
+cargameskin.json
+font.fnt
+font.png
+font.ttf
+fragment_shader.glsl
+joystikcenter.png
+joystikhandle.png
+jumpbutton.png
+player.png
+slot.png
+uiskin.json
+vertex_shader.glsl

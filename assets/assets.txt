@@ -1,12 +1,16 @@
 d:assets:assets:0:application/unknown:1
 t:aizergame.atlas:aizergame-19643f42dbb60b0f9c623332161d44b5.atlas:763:application/unknown:1
 i:aizergame.png:aizergame-81f3a596c3c21e5e6e85d4a7db3cc6eb.png:135916:image/png:1
-t:assets.txt:assets-16ef5202865ea5c6d4d6dc609b2044aa.txt:138:text/plain:1
+t:assets.txt:assets-2ca8639d393193f5ce5ffa2156b4aabb.txt:206:text/plain:1
 i:boss.png:boss-96cd22bd96708882e378e5faed0adc55.png:405167:image/png:1
+t:cargameskin.json:cargameskin-615add96d777c3dd946060471a438051.json:655:application/unknown:1
 t:font.fnt:font-348805a9545965265d18e103cfc8b8df.fnt:14765:application/unknown:1
 i:font.png:font-343e8516c57649780213df15178ae739.png:16812:image/png:1
 b:font.ttf:font-967a6765dee6abf8f4a4dc63cae07c3c.ttf:37140:application/unknown:1
 t:fragment_shader.glsl:fragment_shader-2f4b918024351e5c11f0489c95368b52.glsl:638:application/unknown:1
+i:joystikcenter.png:joystikcenter-3f238321a65fe05dac6251ff44098a60.png:11894:image/png:1
+i:joystikhandle.png:joystikhandle-2063a43a96089dead4f226b6d931f88e.png:5313:image/png:1
+i:jumpbutton.png:jumpbutton-c23ac91d8086e37bdf2cf0b1ba5b6a56.png:2254:image/png:1
 i:player.png:player-e77a7ae37cd34940a8de40abbf3abd03.png:3548:image/png:1
 i:slot.png:slot-0eacdd51a245f5e89445508d118265fd.png:1636:image/png:1
 t:uiskin.json:uiskin-6ec246fd4fdd1bf3b5499b0c8e5fc45a.json:384:application/unknown:1
