@@ -1,0 +1,15 @@
+background_savanna.png
+size:2048,2048
+repeat:none
+background_savanna
+index:3
+bounds:2,1046,1024,346
+background_savanna
+index:0
+bounds:2,698,1024,346
+background_savanna
+index:2
+bounds:2,350,1024,346
+background_savanna
+index:1
+bounds:2,2,1024,346
